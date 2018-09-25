@@ -1,6 +1,5 @@
-import Koa from 'koa'
+import idio from '@idio/core'
 
 (async () => {
-  const app = new Koa()
-  app.middleware
+  const res = await idio()
 })()

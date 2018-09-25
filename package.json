@@ -43,6 +43,6 @@
     "zoroaster": "3.0.3"
   },
   "dependencies": {
-    "koa": "2.5.3"
+    "@idio/core": "1.0.0"
   }
 }
